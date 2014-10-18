@@ -10,14 +10,14 @@
 	<string>Postcard</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>65E203AD722BF5D967E99D5D9B783FE648D0DBE9</key>
+		<key>42AF031629758968E752CD3AC4B774D1550A463E</key>
 		<string>https://github.com/ldilts/Postcard.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Postcard.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>65E203AD722BF5D967E99D5D9B783FE648D0DBE9</key>
+		<key>42AF031629758968E752CD3AC4B774D1550A463E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>65E203AD722BF5D967E99D5D9B783FE648D0DBE9</string>
+	<string>42AF031629758968E752CD3AC4B774D1550A463E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>65E203AD722BF5D967E99D5D9B783FE648D0DBE9</string>
+			<string>42AF031629758968E752CD3AC4B774D1550A463E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Postcard</string>
 		</dict>
